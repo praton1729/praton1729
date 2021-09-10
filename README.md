@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to the circus!!
 
-<!--
-**praton1729/praton1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there,
+I am an aspiring linux kernel developer, processor tech enthusiast.
+I write productivity tools(all in development or initital releases at the moment) in C.
 
-Here are some ideas to get you started:
+I document some of my day to day learnings on my blog.
+- https://blog.praton.xyz/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Linux kernel patches:
+- https://github.com/hnaz/linux-mm/commit/8d9c9dbbeb54b980971085f1696758389e5d0675
+
+You can reach me on prathu.baronia@praton.me
