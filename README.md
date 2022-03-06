@@ -1,7 +1,7 @@
 # Welcome to the circus!!
 
 Hi there,
-- I am an aspiring linux kernel developer, memory, processor tech and ISA enthusiast.
+- I am a processor performance engineer and an aspiring linux kernel developer.
 - I write productivity tools(all in development or initial releases at the moment) in C.
 
 - I document some of my day to day learnings on my blog.
