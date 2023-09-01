@@ -1,9 +1,8 @@
 # Welcome to the circus!!
 
 Hi there,
-- I am a processor performance engineer and an aspiring linux kernel developer.
+- I am a linux developer.
 - I write productivity tools(all in development or initial releases at the moment) in C.
-
 - I document some of my day to day learnings on my blog.
   - https://blog.praton.xyz/
 
