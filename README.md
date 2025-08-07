@@ -1,10 +1,6 @@
 # Welcome to the circus!!
 
-Hi there,
-- I am a linux developer.
-- I write productivity tools(all in development or initial releases at the moment) in C.
-- I document some of my day to day learnings on my blog.
-  - https://blog.praton.xyz/
+Hi there, I am a kernel developer.
 
 ## My Linux kernel patches:
 
@@ -16,5 +12,3 @@ Hi there,
 
 ## My suckless patches/contributions
 - https://git.suckless.org/dmenu/commit/3a505cebe8adab204e5619357e0bfe3f9f3a92ff.html
-
-You can reach me on prathu.baronia@praton.me
