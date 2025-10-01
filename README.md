@@ -1,14 +1,8 @@
-# Welcome to the circus!!
 
-Hi there, I am a kernel developer.
+Kernel developer & Founder at [Redkill Tech](https://redkill.in).
 
-## My Linux kernel patches:
+Working on Redkill Safety OS.
 
-### Core kernel
-- https://github.com/hnaz/linux-mm/commit/8d9c9dbbeb54b980971085f1696758389e5d0675
+[Twitter](https://x.com/devpraton)
 
-### Cosmetic changes
-- https://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux.git/commit/?id=bb457bddee41
-
-## My suckless patches/contributions
-- https://git.suckless.org/dmenu/commit/3a505cebe8adab204e5619357e0bfe3f9f3a92ff.html
+[Linkedin](https://www.linkedin.com/in/prathu-baronia-666587129/)
